@@ -36,7 +36,7 @@ async def start(event):
 		       [Button.url('➕ Tambahkan ke Grup ➕', 'https://t.me/kangtagbot?startgroup=a')],
                       [Button.url('Support', 'https://t.me/DutabotId')],
                    
-		      [Button.url('Developer', 'https://t.me/Mazekubot)],
+		      [Button.url('Developer', 'https://t.me/Mazekubot')],
                     ),
                     link_preview=False
                    )
@@ -48,7 +48,7 @@ async def help(event):
                        [Button.url('➕ Tambahkan ke Grup ➕', 'https://t.me/kangtagbot?startgroup=a')],
                       [Button.url('Support', 'https://t.me/DutabotId')],
                    
-		      [Button.url('Developer', 'https://t.me/Mazekubot)],
+		      [Button.url('Developer', 'https://t.me/Mazekubot')],
                     ),
                     link_preview=False
                    )
